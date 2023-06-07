@@ -1,0 +1,32 @@
+body{
+    font-family: monospace;
+}
+.navbar{
+    background-color: black;
+}
+.carousel-item{
+    height: 35rem;
+}
+.services{
+    background-image: url(https://previews.123rf.com/images/kantver/kantver1605/kantver160500308/57296808-photo-black-matte-luxury-generic-design-private-jet-flying-in-sky-under-the-earth-surface-grand.jpg);
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 3rem;
+    padding-top: 10rem;
+    background-attachment: fixed;
+}
+.service{
+    text-shadow: 1px 1px 8px white;
+}
+.card-img-top{
+    height: 13rem;
+}
+.card{
+    margin: 1rem;
+}
+.registration-form{
+    max-width: 450px;
+    margin: 5rem auto;
+}
